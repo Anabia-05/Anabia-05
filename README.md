@@ -6,7 +6,7 @@
   
   <div style="display: block;">
     <a href = "mailto:anabia.romero@gmail.com"><img height = "40"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href = "[https://www.linkedin.com/in/ana-beatriz-lima-a15564274/](https://www.linkedin.com/in/ana-beatriz-romero-a15564274/)"  ><img height = "40"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href = "[https://www.linkedin.com/in/ana-beatriz-romero-a15564274/]"  ><img height = "40"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    
   </div>
 
